@@ -72,6 +72,12 @@
 * unset 변수이름  
   
 ### 에일리어스 ###  
-* alias  
+**alias**  
+* ailas ll='ls -alF'  
+* 함수만들기 : function cdpwd { cd $1;pwd }  
+**unalias**  
+* unalias ll  
+
+
 
 
